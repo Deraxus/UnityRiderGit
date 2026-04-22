@@ -6,6 +6,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Start()
     {
         print(123);
+        print("goodbye")
     }
 
     // Update is called once per frame
